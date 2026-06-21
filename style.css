@@ -9851,3 +9851,8 @@ h6,
   text-decoration: none;/* Opcional: quita el subrayado */
   background-color: #ff3244 !important;
 }
+
+.image {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
